@@ -7,7 +7,7 @@
 >#### compiler
 > 컴파일러(compiler, 순화 용어: 해석기, 번역기)는 특정 프로그래밍 언어로 쓰여 있는 문서를 다른 프로그래밍 언어로 옮기는 언어 번역 프로그램을 말한다.
 >
->
+> <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Flvr8Q%2Fbtrg95cDAPv%2FgMMA8qddJ6QmkUBkWJrENk%2Fimg.png" width="600" height="350">
 ---
 ### 장점
   * 빌드 없이 즉시 실행가능
